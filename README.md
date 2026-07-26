@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @DeZ4p
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-DeZ4p/DeZ4p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @DeZ4p
+- 👨‍💻 Full Stack Developer & Web Architect
+- 👀 I'm interested in PHP, Laravel, JavaScript, TypeScript, Next.js, React, and building modular systems and themes
+- 🌱 I'm currently learning advanced web architectures, module development, theme creation, and modern frameworks
+- 💞️ I'm looking to collaborate on innovative web projects, modules, and open-source contributions
+- 📫 How to reach me: dev@dez4p.com | t.me/DeZ4p
+- 😄 Pronouns: He
+- ⚡ Fun fact: Passionate about creating beautiful, performant, and accessible web experiences
