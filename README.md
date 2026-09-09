@@ -1,8 +1,5 @@
-- 👋 Hi, I'm @DeZ4p
-- 👨‍💻 Full Stack Developer & Web Architect
-- 👀 I'm interested in PHP, Laravel, JavaScript, TypeScript, Next.js, React, and building modular systems and themes
-- 🌱 I'm currently learning advanced web architectures, module development, theme creation, and modern frameworks
-- 💞️ I'm looking to collaborate on innovative web projects, modules, and open-source contributions
-- 📫 How to reach me: dev@dez4p.com | t.me/DeZ4p
-- 😄 Pronouns: He
-- ⚡ Fun fact: Passionate about creating beautiful, performant, and accessible web experiences
+👋 Hi, I'm @DeZ4p
+💡 I'm passionate about web development — especially working with PHP, Laravel, JavaScript, and modern frontend tools like React and Next.js.
+🌱 I'm currently exploring modular architectures, theme development, and deeper backend concepts. Always learning, always building.
+🤝 Open to collaboration on interesting projects — I enjoy solving problems and creating clean, user-friendly interfaces.
+⚡ Fun fact: I believe great code is not just functional, but also beautiful and accessible.
