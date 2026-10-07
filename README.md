@@ -45,52 +45,36 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 
 <table width="100%">
 <tr>
-<td width="22%" align="left"><b>🧩 Languages</b></td>
-<td align="left">
-  🐍 <b>Python</b> &nbsp;·&nbsp; 🔷 <b>C#</b> &nbsp;·&nbsp; ☕ <b>Java</b> &nbsp;·&nbsp; 🟪 <b>Kotlin</b> &nbsp;·&nbsp; 🟨 <b>JavaScript</b>
-</td>
+<td width="15%" align="left" nowrap><b>🧩 Languages</b></td>
+<td align="left" nowrap>🐍 <b>Python</b> · 🔷 <b>C#</b> · ☕ <b>Java</b> · 🟪 <b>Kotlin</b> · 🟨 <b>JavaScript</b></td>
 </tr>
 <tr>
-<td align="left"><b>🎨 Frontend</b></td>
-<td align="left">
-  🌐 <b>HTML</b> &nbsp;·&nbsp; 🎨 <b>CSS</b> &nbsp;·&nbsp; ⚛️ <b>React</b> &nbsp;·&nbsp; 🎯 <b>UI / UX</b>
-</td>
+<td align="left" nowrap><b>🎨 Frontend</b></td>
+<td align="left" nowrap>🌐 <b>HTML</b> · 🎨 <b>CSS</b> · ⚛️ <b>React</b> · 🎯 <b>UI / UX</b></td>
 </tr>
 <tr>
-<td align="left"><b>📱 Mobile</b></td>
-<td align="left">
-  🤖 <b>Android</b> &nbsp;·&nbsp; 🟪 <b>Kotlin</b> &nbsp;·&nbsp; ☕ <b>Java</b>
-</td>
+<td align="left" nowrap><b>📱 Mobile</b></td>
+<td align="left" nowrap>🤖 <b>Android</b> · 🟪 <b>Kotlin</b> · ☕ <b>Java</b></td>
 </tr>
 <tr>
-<td align="left"><b>🖥️ Desktop</b></td>
-<td align="left">
-  🪟 <b>Windows Apps</b> &nbsp;·&nbsp; 🟣 <b>.NET</b> &nbsp;·&nbsp; 🐍 <b>Python</b>
-</td>
+<td align="left" nowrap><b>🖥️ Desktop</b></td>
+<td align="left" nowrap>🪟 <b>Windows Apps</b> · 🟣 <b>.NET</b> · 🎨 <b>Visual Studio</b> · 🐍 <b>Python</b></td>
 </tr>
 <tr>
-<td align="left"><b>⚙️ Backend</b></td>
-<td align="left">
-  🟢 <b>Node.js</b> &nbsp;·&nbsp; 🐍 <b>Python</b> &nbsp;·&nbsp; 🌐 <b>REST APIs</b>
-</td>
+<td align="left" nowrap><b>⚙️ Backend</b></td>
+<td align="left" nowrap>🟢 <b>Node.js</b> · 🐍 <b>Python</b> · 🌐 <b>REST APIs</b></td>
 </tr>
 <tr>
-<td align="left"><b>🗄️ Databases</b></td>
-<td align="left">
-  🐬 <b>MySQL</b> &nbsp;·&nbsp; 🗄️ <b>SQL</b> &nbsp;·&nbsp; 🍃 <b>MongoDB</b> &nbsp;·&nbsp; ⚡ <b>Redis</b>
-</td>
+<td align="left" nowrap><b>🗄️ Databases</b></td>
+<td align="left" nowrap>🐬 <b>MySQL</b> · 🗄️ <b>SQL</b> · 🍃 <b>MongoDB</b> · ⚡ <b>Redis</b></td>
 </tr>
 <tr>
-<td align="left"><b>🚀 DevOps</b></td>
-<td align="left">
-  🔧 <b>Git</b> &nbsp;·&nbsp; 🐧 <b>Linux</b> &nbsp;·&nbsp; 🐳 <b>Docker</b> &nbsp;·&nbsp; 🌐 <b>Nginx</b> &nbsp;·&nbsp; 📦 <b>GitHub</b>
-</td>
+<td align="left" nowrap><b>🚀 DevOps</b></td>
+<td align="left" nowrap>🔧 <b>Git</b> · 🐧 <b>Linux</b> · 🐳 <b>Docker</b> · 🌐 <b>Nginx</b> · 📦 <b>GitHub</b></td>
 </tr>
 <tr>
-<td align="left"><b>🧰 Tools</b></td>
-<td align="left">
-  📦 <b>GitHub</b> &nbsp;·&nbsp; 🎨 <b>Figma</b> &nbsp;·&nbsp; 🤖 <b>Bots & Panels</b>
-</td>
+<td align="left" nowrap><b>🧰 Tools</b></td>
+<td align="left" nowrap>📦 <b>GitHub</b> · 🎨 <b>Figma</b> · 🤖 <b>Bots & Panels</b></td>
 </tr>
 </table>
 
