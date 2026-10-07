@@ -1,5 +1,7 @@
 <div align="center" width="100%">
 
+<img width="100%" height="140" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:7F52FF,100:2E9EF7&height=140&section=header&text=DeZ4p&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Always%20learning%20%C2%B7%20Always%20building&descAlignY=55&descSize=16" />
+
 <a href="https://github.com/DeZ4p">
   <img width="100%" height="50" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=2E9EF7&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I'm+DeZ4p+%F0%9F%91%8B;Always+learning.+Always+building.;Interested+in+Web%2C+Android+%26+Python" />
 </a>
@@ -78,9 +80,11 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 
 ### 💼 Open For
 
-🤝 **Collaborations** &nbsp;·&nbsp; 💡 **Project Ideas** &nbsp;·&nbsp; 🧠 **Learning Together** &nbsp;·&nbsp; 🔧 **Building Tools**
+🤝 **Collaborations** &nbsp;·&nbsp; 💡 **Ideas & Projects** &nbsp;·&nbsp; 🧠 **Learning Together** &nbsp;·&nbsp; 🔧 **Building Tools**
 
-If you have something in mind — a project, an idea, or just want to build together — I'm in.
+I'm always open to work with people who love building things — whether it's a small idea or something bigger.
+
+**Have something in mind? Let's make it real.**
 
 </div>
 
