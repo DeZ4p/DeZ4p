@@ -47,7 +47,7 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 <tr>
 <td width="22%" align="left"><b>🧩 Languages</b></td>
 <td align="left">
-  🐍 <b>Python</b> &nbsp;·&nbsp; 🔷 <b>C#</b> &nbsp;·&nbsp; ☕ <b>Java</b> &nbsp;·&nbsp; 🟪 <b>Kotlin</b> &nbsp;·&nbsp; 🟨 <b>JavaScript</b> &nbsp;·&nbsp; 🔵 <b>TypeScript</b>
+  🐍 <b>Python</b> &nbsp;·&nbsp; 🔷 <b>C#</b> &nbsp;·&nbsp; ☕ <b>Java</b> &nbsp;·&nbsp; 🟪 <b>Kotlin</b> &nbsp;·&nbsp; 🟨 <b>JavaScript</b>
 </td>
 </tr>
 <tr>
@@ -102,16 +102,10 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=DeZ4p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12&card_width=500" />
-</td>
-<td width="50%" align="center">
-  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeZ4p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12&card_width=500" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeZ4p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12&card_width=500&hide_rank=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeZ4p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12&card_width=500" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:2E9EF7,50:7F52FF,70:2E9EF7,100:0d1117&height=2" />
 
