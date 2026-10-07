@@ -1,7 +1,7 @@
 <div align="center" width="100%">
 
 <a href="https://github.com/DeZ4p">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=2E9EF7&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I'm+DeZ4p+%F0%9F%91%8B;Always+learning.+Always+building.;Interested+in+Web%2C+Android+%26+Python" />
+  <img width="100%" height="50" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=2E9EF7&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I'm+DeZ4p+%F0%9F%91%8B;Always+learning.+Always+building.;Interested+in+Web%2C+Android+%26+Python" />
 </a>
 
 <br/>
@@ -17,9 +17,9 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=2" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=3" />
 
-<div align="center" width="100%">
+<div align="left" width="100%">
 
 ### 👋 About
 
@@ -29,52 +29,67 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=2" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=3" />
 
-<div align="center" width="100%">
+<div align="left" width="100%">
 
 ### 🎯 Interests & Focus
 
-**🌐 Web Development** · **📱 Android** · **🐍 Python** · **🖥️ Windows Apps** · **🤖 Bots** · **🖥️ Panels** · **🔧 Automation** · **🎨 UI / Tools**
+🌐 **Web Development** &nbsp;·&nbsp; 📱 **Android** &nbsp;·&nbsp; 🐍 **Python** &nbsp;·&nbsp; 🖥️ **Windows Apps** &nbsp;·&nbsp; 🤖 **Bots** &nbsp;·&nbsp; 🖥️ **Panels** &nbsp;·&nbsp; 🔧 **Automation** &nbsp;·&nbsp; 🎨 **UI / Tools**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=2" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=3" />
 
-<div align="center" width="100%">
+<div align="left" width="100%">
 
 ### 🛠️ Tech I Use & Learn
 
-<img width="100%" src="https://skillicons.dev/icons?i=python,cs,cpp,js,ts,kotlin,java,html,css,nodejs,react,android,windows,dotnet,git,linux,docker,nginx,vscode,visualstudio,github,redis,postgres,mongodb&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,ts,kotlin,java&theme=dark" />
+</p>
+
+- 🐍 **Python** &nbsp;·&nbsp; 🔷 **C#** &nbsp;·&nbsp; ➕ **C++** &nbsp;·&nbsp; 🟨 **JavaScript** &nbsp;·&nbsp; 🔵 **TypeScript**
+- 🟪 **Kotlin** &nbsp;·&nbsp; ☕ **Java** &nbsp;·&nbsp; 🌐 **HTML / CSS** &nbsp;·&nbsp; 🟢 **Node.js**
+- ⚛️ **React** &nbsp;·&nbsp; 📱 **Android** &nbsp;·&nbsp; 🪟 **Windows** &nbsp;·&nbsp; 🟣 **.NET**
+- 🔧 **Git** &nbsp;·&nbsp; 🐧 **Linux** &nbsp;·&nbsp; 🐳 **Docker** &nbsp;·&nbsp; 🌐 **Nginx**
+- 💻 **VS Code** &nbsp;·&nbsp; 🎨 **Visual Studio** &nbsp;·&nbsp; 📦 **GitHub** &nbsp;·&nbsp; 🗄️ **Redis / SQL / MongoDB**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=2" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=3" />
 
-<div align="center" width="100%">
+<div align="left" width="100%">
 
 ### 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeZ4p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeZ4p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
+<p align="center">
+  <img width="100%" height="180" src="https://github-readme-stats.vercel.app/api?username=DeZ4p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" />
+</p>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeZ4p&theme=tokyonight&hide_border=true&border_radius=10" />
+<p align="center">
+  <img width="100%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeZ4p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="100%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DeZ4p&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=2" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=3" />
 
-<div align="center" width="100%">
+<div align="left" width="100%">
 
 ### 💼 Open For
 
-**🤝 Collaborations** · **💡 Project Ideas** · **🧠 Learning Together** · **🔧 Building Tools**
+🤝 **Collaborations** &nbsp;·&nbsp; 💡 **Project Ideas** &nbsp;·&nbsp; 🧠 **Learning Together** &nbsp;·&nbsp; 🔧 **Building Tools**
 
 If you have something in mind — a project, an idea, or just want to build together — I'm in.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=2" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=3" />
 
 <div align="center" width="100%">
 
@@ -86,11 +101,11 @@ If you have something in mind — a project, an idea, or just want to build toge
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=2" />
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=3" />
 
 <div align="center" width="100%">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7F52FF&height=100&section=footer" />
+<img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7F52FF&height=100&section=footer" />
 
 <i>Always learning. Always building. Simple by design.</i>
 
