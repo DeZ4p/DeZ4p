@@ -37,9 +37,7 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 
 **What I focus on**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,android,python,windows,telegram,nginx,githubactions,figma,vscode&theme=dark" />
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,android,python,windows,telegram,nginx,githubactions,figma,vscode&theme=dark&perline=11" />
 
 **What I use & learn**
 
