@@ -1,7 +1,5 @@
 <div align="center" width="100%">
 
-<img width="100%" height="140" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:7F52FF,100:2E9EF7&height=140&section=header&text=DeZ4p&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Always%20learning%20%C2%B7%20Always%20building&descAlignY=55&descSize=16" />
-
 <a href="https://github.com/DeZ4p">
   <img width="100%" height="50" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=2E9EF7&center=true&vCenter=true&width=1000&height=50&lines=Hey%2C+I'm+DeZ4p+%F0%9F%91%8B;Always+learning.+Always+building.;Interested+in+Web%2C+Android+%26+Python" />
 </a>
@@ -43,13 +41,58 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 
 **What I use & learn**
 
-- 🐍 **Python** &nbsp;·&nbsp; 🔷 **C#** &nbsp;·&nbsp; ➕ **C++** &nbsp;·&nbsp; 🟨 **JavaScript** &nbsp;·&nbsp; 🔵 **TypeScript**
-- 🟪 **Kotlin** &nbsp;·&nbsp; ☕ **Java** &nbsp;·&nbsp; 🌐 **HTML / CSS** &nbsp;·&nbsp; 🟢 **Node.js**
-- ⚛️ **React** &nbsp;·&nbsp; 📱 **Android** &nbsp;·&nbsp; 🪟 **Windows** &nbsp;·&nbsp; 🟣 **.NET**
-- 🔧 **Git** &nbsp;·&nbsp; 🐧 **Linux** &nbsp;·&nbsp; 🐳 **Docker** &nbsp;·&nbsp; 🌐 **Nginx**
-- 💻 **VS Code** &nbsp;·&nbsp; 🎨 **Visual Studio** &nbsp;·&nbsp; 📦 **GitHub** &nbsp;·&nbsp; 🗄️ **Redis / SQL / MongoDB**
-
 </div>
+
+<table width="100%">
+<tr>
+<td width="22%" align="left"><b>🧩 Languages</b></td>
+<td align="left">
+  🐍 <b>Python</b> &nbsp;·&nbsp; 🔷 <b>C#</b> &nbsp;·&nbsp; ➕ <b>C++</b> &nbsp;·&nbsp; ☕ <b>Java</b> &nbsp;·&nbsp; 🟪 <b>Kotlin</b> &nbsp;·&nbsp; 🟨 <b>JavaScript</b> &nbsp;·&nbsp; 🔵 <b>TypeScript</b>
+</td>
+</tr>
+<tr>
+<td align="left"><b>🎨 Frontend</b></td>
+<td align="left">
+  🌐 <b>HTML</b> &nbsp;·&nbsp; 🎨 <b>CSS</b> &nbsp;·&nbsp; ⚛️ <b>React</b> &nbsp;·&nbsp; 🎯 <b>UI / UX</b>
+</td>
+</tr>
+<tr>
+<td align="left"><b>📱 Mobile</b></td>
+<td align="left">
+  🤖 <b>Android</b> &nbsp;·&nbsp; 🟪 <b>Kotlin</b> &nbsp;·&nbsp; ☕ <b>Java</b>
+</td>
+</tr>
+<tr>
+<td align="left"><b>🖥️ Desktop</b></td>
+<td align="left">
+  🪟 <b>Windows Apps</b> &nbsp;·&nbsp; 🟣 <b>.NET</b> &nbsp;·&nbsp; 🎨 <b>Visual Studio</b>
+</td>
+</tr>
+<tr>
+<td align="left"><b>⚙️ Backend</b></td>
+<td align="left">
+  🟢 <b>Node.js</b> &nbsp;·&nbsp; 🐍 <b>Python</b> &nbsp;·&nbsp; 🌐 <b>REST APIs</b>
+</td>
+</tr>
+<tr>
+<td align="left"><b>🗄️ Databases</b></td>
+<td align="left">
+  🗄️ <b>SQL</b> &nbsp;·&nbsp; 🍃 <b>MongoDB</b> &nbsp;·&nbsp; ⚡ <b>Redis</b>
+</td>
+</tr>
+<tr>
+<td align="left"><b>🚀 DevOps</b></td>
+<td align="left">
+  🔧 <b>Git</b> &nbsp;·&nbsp; 🐧 <b>Linux</b> &nbsp;·&nbsp; 🐳 <b>Docker</b> &nbsp;·&nbsp; 🌐 <b>Nginx</b> &nbsp;·&nbsp; 📦 <b>GitHub Actions</b>
+</td>
+</tr>
+<tr>
+<td align="left"><b>🧰 Tools</b></td>
+<td align="left">
+  💻 <b>VS Code</b> &nbsp;·&nbsp; 📦 <b>GitHub</b> &nbsp;·&nbsp; 🎨 <b>Figma</b> &nbsp;·&nbsp; 🤖 <b>Bots & Panels</b>
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:2E9EF7,50:7F52FF,70:2E9EF7,100:0d1117&height=2" />
 
