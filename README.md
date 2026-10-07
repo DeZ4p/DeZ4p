@@ -65,7 +65,7 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 <tr>
 <td align="left"><b>🖥️ Desktop</b></td>
 <td align="left">
-  🪟 <b>Windows Apps</b> &nbsp;·&nbsp; 🟣 <b>.NET</b> &nbsp;·&nbsp; 🎨 <b>Visual Studio</b>
+  🪟 <b>Windows Apps</b> &nbsp;·&nbsp; 🟣 <b>.NET</b> &nbsp;·&nbsp; 🎨 <b>Visual Studio</b> &nbsp;·&nbsp; 🐍 <b>Python</b>
 </td>
 </tr>
 <tr>
@@ -83,13 +83,13 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 <tr>
 <td align="left"><b>🚀 DevOps</b></td>
 <td align="left">
-  🔧 <b>Git</b> &nbsp;·&nbsp; 🐧 <b>Linux</b> &nbsp;·&nbsp; 🐳 <b>Docker</b> &nbsp;·&nbsp; 🌐 <b>Nginx</b> &nbsp;·&nbsp; 📦 <b>GitHub Actions</b>
+  🔧 <b>Git</b> &nbsp;·&nbsp; 🐧 <b>Linux</b> &nbsp;·&nbsp; 🐳 <b>Docker</b> &nbsp;·&nbsp; 🌐 <b>Nginx</b> &nbsp;·&nbsp; 📦 <b>GitHub</b>
 </td>
 </tr>
 <tr>
 <td align="left"><b>🧰 Tools</b></td>
 <td align="left">
-  💻 <b>VS Code</b> &nbsp;·&nbsp; 📦 <b>GitHub</b> &nbsp;·&nbsp; 🎨 <b>Figma</b> &nbsp;·&nbsp; 🤖 <b>Bots & Panels</b>
+  📦 <b>GitHub</b> &nbsp;·&nbsp; 🎨 <b>Figma</b> &nbsp;·&nbsp; 🤖 <b>Bots & Panels</b>
 </td>
 </tr>
 </table>
@@ -103,7 +103,7 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeZ4p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12&card_width=500&hide_rank=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeZ4p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12&card_width=500" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeZ4p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12&card_width=500" />
 </p>
 
