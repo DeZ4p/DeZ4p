@@ -65,7 +65,7 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 <tr>
 <td align="left"><b>🖥️ Desktop</b></td>
 <td align="left">
-  🪟 <b>Windows Apps</b> &nbsp;·&nbsp; 🟣 <b>.NET</b> &nbsp;·&nbsp; 🎨 <b>Visual Studio</b> &nbsp;·&nbsp; 🐍 <b>Python</b>
+  🪟 <b>Windows Apps</b> &nbsp;·&nbsp; 🟣 <b>.NET</b> &nbsp;·&nbsp; 🐍 <b>Python</b>
 </td>
 </tr>
 <tr>
