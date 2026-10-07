@@ -33,21 +33,13 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 
 <div align="left" width="100%">
 
-### 🎯 Interests & Focus
+### 🧭 Interests & Tech
+
+**What I focus on**
 
 🌐 **Web Development** &nbsp;·&nbsp; 📱 **Android** &nbsp;·&nbsp; 🐍 **Python** &nbsp;·&nbsp; 🖥️ **Windows Apps** &nbsp;·&nbsp; 🤖 **Bots** &nbsp;·&nbsp; 🖥️ **Panels** &nbsp;·&nbsp; 🔧 **Automation** &nbsp;·&nbsp; 🎨 **UI / Tools**
 
-</div>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7F52FF&height=3" />
-
-<div align="left" width="100%">
-
-### 🛠️ Tech I Use & Learn
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,ts,kotlin,java&theme=dark" />
-</p>
+**What I use & learn**
 
 - 🐍 **Python** &nbsp;·&nbsp; 🔷 **C#** &nbsp;·&nbsp; ➕ **C++** &nbsp;·&nbsp; 🟨 **JavaScript** &nbsp;·&nbsp; 🔵 **TypeScript**
 - 🟪 **Kotlin** &nbsp;·&nbsp; ☕ **Java** &nbsp;·&nbsp; 🌐 **HTML / CSS** &nbsp;·&nbsp; 🟢 **Node.js**
@@ -63,17 +55,15 @@ I'm interested in **web**, **Android**, **Python**, and tools like **bots**, **p
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="100%" height="180" src="https://github-readme-stats.vercel.app/api?username=DeZ4p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" />
-</p>
+</div>
 
-<p align="center">
-  <img width="100%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeZ4p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
-</p>
+<div align="center" width="100%">
 
-<p align="center">
-  <img width="100%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DeZ4p&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
+<img width="49.5%" height="180" src="https://github-readme-stats.vercel.app/api?username=DeZ4p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" /> <img width="49.5%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeZ4p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" />
+
+<br/>
+
+<img width="100%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DeZ4p&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
